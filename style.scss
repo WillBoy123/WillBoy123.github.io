@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: url("https://data.whicdn.com/images/158076567/large.png");
+	background-image: url("https://data.whicdn.com/images/158076567/large.png");
 	background-repeat: repeat;
 	background-position: right top;
 	background-attachment: fixed;
@@ -31,6 +31,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  background-color: rgba(196, 218, 255, 0.8)
 }
 
 h1, h2, h3, h4, h5, h6 {
