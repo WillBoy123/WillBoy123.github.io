@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Blog 2
 layout: post
 author: william.doan
 permalink: /untitled-document/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Blog number 1</td>
+    <td>Blog number 2</td>
     <td>Date</td>
     <td>01/01/01</td>
   </tr>
