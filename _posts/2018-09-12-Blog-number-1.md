@@ -1,5 +1,5 @@
 ---
-title: Blog number 1
+title: Blog number 1 omg mad
 layout: post
 author: william.doan
 permalink: /blog-number-1/
